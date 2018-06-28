@@ -130,8 +130,8 @@ German | Middle | Middle | Middle | 5 years | 10 years ago
 * **Magento** 2 years
 * **TomatoCart** 2 years
 * **CMS Made Simple** 1 year
-## HOBBY
-**Sport activities:** Squash, Walking, swimming, snowboarding.
+## HOBBIES
+**Sport activities:** Squash, walking, swimming, snowboarding.
 Camping and travels.
 
 Socializing with colleagues and friends.
