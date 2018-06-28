@@ -13,12 +13,29 @@
 ### Secondary school education:
 *1990 – 2002* The Gymnasium “Versmė” in Elektrėnai
 ## WORK EXPERIENCE
-### 2013 10 - current *UAB Paysera LT*
-**Developer**
+### 2017 06 - current *UAB "Worapay"*
+**Senior Developer**
+
+WioPay app and backend development. (Mysql, Python, Cordova, Java)
+
+### 2017 01 - 2017 06 *UAB "EUROMONITOR INTERNATIONAL - EASTERN EUROPE"*
+**Database Developer**
+
+Development with MS SQL. Chat bot with Node.js + [Dialogflow](https://dialogflow.com/).
+
+### 2015 06 - 2017 01 *UAB Paysera LT*
+**Developer/B2B support team lead**
 
 The creation of the E-commerce integrations for diferent platform. Working with
 Paysera LT banking solutions (Transfer API, user identification and other).
 Creating reports from diferent source of data (SQL + ElasticSearch).
+
+### 2013 10 - 2015 06 *UAB Paysera LT*
+**Developer/B2B tech support**
+
+Creating different solutions to connect client systems/services with Paysera API.
+Preparing solutions and documentation. Preparing different reports from
+relational databases and other sources.
 
 ### 2012 01- 2013 10 *UAB SC Baltic Media*
 **Developer**
@@ -85,18 +102,20 @@ English | Middle | Good | Good | 15 years | Currently
 German | Middle | Middle | Middle | 5 years | 10 years ago
 ## IT SKILLS
 ### PROGRAMING LANGUAGES
-* **PHP** 12 years
-* **JavaScript** 14 years
-* **Node.JS** 2 year
-* **Python** 2 year
+* **PHP** 15 years
+* **JavaScript** 15 years
+* **Node.JS** 3 year
+* **Python** 4 year
 * **C++** 3 years
-* **Java** 3 years
-### DATABASES
-* **Mysql/MariaDB** 8 years
+* **Java** 4 years
+### DATABASES (and More)
+* **Mysql/MariaDB** 15 years
 * **MsSql** 3 years
 * **PostgreSql** 2 year
 * **Apache Cassandra** 1 year
 * **MongoDB** 2 year
+* **Memcache** 1 year
+* **Elasticsearch** 1 year
 ### JAVASCRIPT FRAMEWORKS
 * **jQuery** 7 years
 * **jQuery Mobile** 2 year
@@ -112,7 +131,7 @@ German | Middle | Middle | Middle | 5 years | 10 years ago
 * **TomatoCart** 2 years
 * **CMS Made Simple** 1 year
 ## HOBBY
-**Sport activities:** Walking, swimming, snowboarding.
+**Sport activities:** Squash, Walking, swimming, snowboarding.
 Camping and travels.
 
 Socializing with colleagues and friends.
