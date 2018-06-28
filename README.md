@@ -26,7 +26,7 @@ Development with MS SQL. Chat bot with Node.js + [Dialogflow](https://dialogflow
 ### 2015 06 - 2017 01 *UAB Paysera LT*
 **Developer/B2B support team lead**
 
-The creation of the E-commerce integrations for diferent platform. Working with
+The creation of the e-commerce integrations for different platform. Working with
 Paysera LT banking solutions (Transfer API, user identification and other).
 Creating reports from diferent source of data (SQL + ElasticSearch).
 
