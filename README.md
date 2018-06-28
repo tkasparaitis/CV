@@ -84,33 +84,33 @@ Russian | Middle | Good | Good | 25 years | Currently
 English | Middle | Good | Good | 15 years | Currently
 German | Middle | Middle | Middle | 5 years | 10 years ago
 ## IT SKILLS
-###PROGRAMING LANGUAGES
+### PROGRAMING LANGUAGES
 * **PHP** 12 years
 * **JavaScript** 14 years
 * **Node.JS** 2 year
 * **Python** 2 year
 * **C++** 3 years
 * **Java** 3 years
-###DATABASES
-Mysql/MariaDB 8 years
-MsSql 3 years
-PostgreSql 2 year
-Apache Cassandra 1 year
-MongoDB 2 year
-###JAVASCRIPT FRAMEWORKS
-jQuery 7 years
-jQuery Mobile 2 year
-Angular 1/2 1 year
-Framework7 < 1 year
-MooTools 5 years
-Prototype 2 years
-YUI Library 1 year
+### DATABASES
+* **Mysql/MariaDB** 8 years
+* **MsSql** 3 years
+* **PostgreSql** 2 year
+* **Apache Cassandra** 1 year
+* **MongoDB** 2 year
+### JAVASCRIPT FRAMEWORKS
+* **jQuery** 7 years
+* **jQuery Mobile** 2 year
+* **Angular** 2 year
+* **Framework7** < 1 year
+* **MooTools** 5 years
+* **Prototype** 2 years
+* **YUI Library** 1 year
 ## CONTENT MANAGMENT SYSTEMS
-Wordpress 6 years
-Joomla 8 years
-Magento 2 years
-TomatoCart 2 years
-CMS Made Simple 1 year
+* **Wordpress** 6 years
+* **Joomla** 8 years
+* **Magento** 2 years
+* **TomatoCart** 2 years
+* **CMS Made Simple** 1 year
 ## HOBBY
 **Sport activities:** Walking, swimming, snowboarding.
 Camping and travels.
