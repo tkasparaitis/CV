@@ -13,7 +13,12 @@
 ### Secondary school education:
 *1990 – 2002* The Gymnasium “Versmė” in Elektrėnai
 ## WORK EXPERIENCE
-### 2017 06 - current *UAB "Worapay"*
+### 2018 07 - current *UAB "Šviesa"*
+**Developer**
+
+Education projects. (Postrgre SQL, MongoDB, Python, Angular)
+
+### 2017 06 - 2018 07 *UAB "Worapay"*
 **Senior Developer**
 
 WioPay app and backend development. (Mysql, Python, Cordova, Java)
