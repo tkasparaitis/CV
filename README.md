@@ -14,9 +14,9 @@
 *1990 – 2002* The Gymnasium “Versmė” in Elektrėnai
 ## WORK EXPERIENCE
 ### 2018 07 - current *UAB "Šviesa"*
-**Developer**
+**Senior Developer**
 
-Education projects. (Postrgre SQL, MongoDB, Python, Angular)
+Education projects. (Postrgre SQL, MongoDB, Python (Django), Angular)
 
 ### 2017 06 - 2018 07 *UAB "Worapay"*
 **Senior Developer**
@@ -110,7 +110,7 @@ German | Middle | Middle | Middle | 5 years | 10 years ago
 * **PHP** 15 years
 * **JavaScript** 15 years
 * **Node.JS** 3 year
-* **Python** 4 year
+* **Python** 6 year
 * **C++** 3 years
 * **Java** 4 years
 ### DATABASES (and More)
@@ -118,9 +118,10 @@ German | Middle | Middle | Middle | 5 years | 10 years ago
 * **MsSql** 3 years
 * **PostgreSql** 2 year
 * **Apache Cassandra** 1 year
-* **MongoDB** 2 year
+* **MongoDB** 3 year
 * **Memcache** 1 year
 * **Elasticsearch** 1 year
+* **Redis** 1 year
 ### JAVASCRIPT FRAMEWORKS
 * **jQuery** 7 years
 * **jQuery Mobile** 2 year
