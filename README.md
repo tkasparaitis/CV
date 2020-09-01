@@ -4,7 +4,7 @@
 >
 > Phone.: **+37060038422**
 >
-> Email.: **[tomas.Kasparaitis@gmail.com](mailto:tomas.Kasparaitis@gmail.com)**
+> Email.: **[tomas.Kasparaitis@gmail.com](mailto:tomas.kasparaitis@gmail.com)**
 
 ## EDUCATION
 
