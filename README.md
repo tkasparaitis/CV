@@ -13,7 +13,11 @@
 ### Secondary school education:
 *1990 – 2002* The Gymnasium “Versmė” in Elektrėnai
 ## WORK EXPERIENCE
-### 2018 07 - current *UAB "Šviesa"*
+### 2020 10 - current *UAB "Šviesa"*
+**Head of Technology**
+
+Education projects. (Postrgre SQL, MongoDB, Python (Django), Angular)
+### 2018 07 - 2020-10 *UAB "Šviesa"*
 **Senior Developer**
 
 Education projects. (Postrgre SQL, MongoDB, Python (Django), Angular)
