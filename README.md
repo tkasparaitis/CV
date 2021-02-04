@@ -149,10 +149,6 @@ Socializing with colleagues and friends.
 **Mantas Šegžda** Head of Programming Development, WorldOne Research
 managed Tomas at WorldOne Research (UAB „PBMH“).
 
-**Mary Anne Donovan** St. John Fisher College - Adjunct Professor, Technical Communication
-
-**Skaistė Knyzaitė** CEO at AviationCV.com
-
 **Andrius Rekerta** Head of Data Communication Department ad "Baltnetos Komunikacijos"
 ## ONLINE RESOURCE
 **Linkedin** [https://lt.linkedin.com/in/tokas](https://lt.linkedin.com/in/tokas)
