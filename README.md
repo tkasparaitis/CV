@@ -13,7 +13,11 @@
 ### Secondary school education:
 *1990 – 2002* The Gymnasium “Versmė” in Elektrėnai
 ## WORK EXPERIENCE
-### 2020 10 - current *UAB "Šviesa"*
+### 2021 07 - Present *UAB "Noviti"*
+**CTO**
+
+Development of a Loan Management System and Optimization of Business Processes 
+### 2020 10 - 2021 06 *UAB "Šviesa"*
 **Head of Technology**
 
 Education projects. (Postrgre SQL, MongoDB, Python (Django), Angular)
@@ -103,12 +107,12 @@ the managment system related to the small customers.
 
 ## LANGUAGES
 
-LANGUAGE | WRITING | SPEAKING | COMPREHENSION | EXPERIENCE | LAST TIME USED
--------- | ------- | -------- | ------------- | ---------- | --------------
-Lithuanian | Excellent | Excellent | Excellent | Native tongue | Currently
-Russian | Middle | Good | Good | 25 years | Currently
-English | Middle | Good | Good | 15 years | Currently
-German | Middle | Middle | Middle | 5 years | 10 years ago
+| LANGUAGE   | WRITING | SPEAKING | COMPREHENSION | EXPERIENCE | LAST TIME USED |
+| ------------| ------- | -------- | ------------- | ---------- | -------------- |
+| Lithuanian | Excellent | Excellent | Excellent | Native tongue | Currently |
+| Russian    | Middle | Good | Good | 25 years | Currently |
+| English    | Middle | Good | Good | 15 years | Currently |
+| German     | Middle | Middle | Middle | 5 years | 10 years ago |
 ## IT SKILLS
 ### PROGRAMING LANGUAGES
 * **PHP** 15 years
