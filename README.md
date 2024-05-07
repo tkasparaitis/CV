@@ -1,5 +1,5 @@
 # Tomas Kasparaitis
-![Tomas Kasparaitis](./images/tomas.jpg)
+![Tomas Kasparaitis](./images/tomas_2.jpg)
 > Address: **Girulių street 7-45, LT - 12124 Vilnius Lithuania**
 >
 > Phone.: **+37060038422**
