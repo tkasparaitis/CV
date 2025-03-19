@@ -110,8 +110,8 @@ the managment system related to the small customers.
 | LANGUAGE   | WRITING | SPEAKING | COMPREHENSION | EXPERIENCE | LAST TIME USED |
 | ------------| ------- | -------- | ------------- | ---------- | -------------- |
 | Lithuanian | Excellent | Excellent | Excellent | Native tongue | Currently |
-| Russian    | Middle | Good | Good | 25 years | Currently |
 | English    | Middle | Good | Good | 15 years | Currently |
+| Russian    | Middle | Good | Good | 25 years | Currently |
 | German     | Middle | Middle | Middle | 5 years | 10 years ago |
 ## IT SKILLS
 ### PROGRAMING LANGUAGES
@@ -145,7 +145,7 @@ the managment system related to the small customers.
 * **TomatoCart** 2 years
 * **CMS Made Simple** 1 year
 ## HOBBIES
-**Sport activities:** Squash, walking, swimming, snowboarding.
+**Sport activities:** Squash, tennis, swimming, snowboarding.
 Camping and travels.
 
 Socializing with colleagues and friends.
@@ -156,5 +156,3 @@ managed Tomas at WorldOne Research (UAB „PBMH“).
 **Andrius Rekerta** Head of Data Communication Department ad "Baltnetos Komunikacijos"
 ## ONLINE RESOURCE
 **Linkedin** [https://lt.linkedin.com/in/tokas](https://lt.linkedin.com/in/tokas)
-
-**Home page** [http://kasparaitis.lt/](http://kasparaitis.lt/)
